@@ -1,0 +1,22 @@
+#title {
+  background-color: #ff4c68;
+    padding:3% 15%;
+    /* CLASSES */
+}
+.h11 {
+font-family: 'Montserrat', sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+color: WHITE;
+
+}
+body {
+  font-family: 'Montserrat';
+}
+
+/* navbar */
+.NAVA{
+font-family:"ubuntu";
+size: 3rem;
+font-weight: 300;
+}
